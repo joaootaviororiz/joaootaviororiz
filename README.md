@@ -20,16 +20,26 @@ Rio Verde, Goiás · Brasil
 
 Sou **João Otávio Mota Roriz**, formado em **Engenharia de Software pela Universidade de Rio Verde (UniRV)**. Minha trajetória começou no suporte técnico, onde aprendi a investigar problemas, entender a rotina das pessoas e encontrar soluções que funcionam no dia a dia.
 
-Ao longo desse caminho, passei a trabalhar com **bancos de dados, Business Intelligence, automação e desenvolvimento de sistemas**. Hoje, atuo como **Analista de Dados I na Softplan, no contexto do produto 1Doc**, conectando minha experiência técnica ao trabalho com dados.
+Ao longo desse caminho, passei a trabalhar com **bancos de dados, Business Intelligence, automação e desenvolvimento de sistemas**. Hoje, atuo como **Analista de Dados Júnior na Softplan, no contexto do produto 1Doc**, conectando minha experiência técnica ao trabalho com dados.
 
 Também desenvolvo projetos próprios a partir de necessidades próximas de mim. A **MesaFlow**, por exemplo, nasceu da rotina do restaurante da minha família. É essa ligação entre tecnologia e uso prático que orienta meu trabalho: entender o problema, construir uma solução e evoluir com a experiência de quem usa.
 
 ## Minha trajetória profissional
 
 ### Softplan · 1Doc
-**Analista de Dados I | maio de 2026 — atual**
+**Analista de Dados Júnior | maio de 2026 — atual**<br>
+Tempo integral · Remoto
 
-Atuação em análise de dados no contexto do produto 1Doc, dando continuidade à minha trajetória com dados e tecnologia.
+Atuo no **1Doc**, plataforma de gestão documental e processos utilizada por prefeituras e órgãos públicos. Iniciei na área de **Migrações e Backups**, conduzindo migrações de sistemas legados desde a análise de viabilidade técnica, mapeamento e tratamento dos dados até a execução e validação das cargas.
+
+Atualmente, direciono minha atuação para **Dados e Analytics**, com foco em **Google Cloud Platform (GCP)**, aplicando essa experiência em qualidade, consistência e governança de dados para apoiar decisões baseadas em dados.
+
+- **Dados e Analytics:** modelagem e consumo de dados no **Google BigQuery**, desenvolvimento de dashboards em **Power BI** e análise de performance entre **DirectQuery e Import Mode**.
+- **Migração de dados:** diagnóstico técnico, execução das migrações e validação da integridade entre origem e destino.
+- **Análise de viabilidade:** avaliação de bases e identificação de incompatibilidades estruturais antes da execução, reduzindo riscos, retrabalho e tempo de entrega.
+- **Automação:** scripts em **Python e SQL** para backup, tratamento de dados, correção de encoding, cargas e automação de processos.
+- **Infraestrutura e bancos de dados:** atuação com **MySQL, AWS (RDS e S3), Docker e Linux**, incluindo atualização de versões e suporte às operações.
+- **Melhoria contínua:** participação na definição de **OKRs**, otimização de processos e iniciativas para reduzir o lead time e aumentar a eficiência operacional.
 
 ### Mixbrasilis
 **Analista de Dados · Prestação de serviços | novembro de 2025 — abril de 2026**
@@ -68,10 +78,10 @@ Concluída em **2020**.
 
 | Área | Tecnologias e aplicação |
 | --- | --- |
-| Dados e BI | SQL, Firebird, Pandas, Google Looker Studio, KPIs e dashboards |
+| Dados e BI | SQL, BigQuery, GCP, Power BI, DirectQuery, Import Mode, Firebird, Pandas, Google Looker Studio, KPIs e dashboards |
 | Automação e integração | Python, Shell, ETL, APIs e Google Sheets API |
 | Desenvolvimento web | HTML, CSS e JavaScript |
-| Infraestrutura e suporte | Linux, Ubuntu, máquinas virtuais, servidores e RustDesk |
+| Infraestrutura e suporte | MySQL, AWS (RDS e S3), Docker, Linux, Ubuntu, máquinas virtuais, servidores e RustDesk |
 
 ## Projetos em destaque
 
