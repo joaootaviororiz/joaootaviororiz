@@ -47,7 +47,7 @@ Atuação em análise de dados no contexto do produto 1Doc, dando continuidade �
 
 ## Formação acadêmica
 
-🎓 **Engenharia de Software** — Universidade de Rio Verde (UniRV)  
+🎓 **Engenharia de Software** — Universidade de Rio Verde (UniRV)<br>
 Concluída em **2020**.
 
 ## Tecnologias e áreas de atuação
@@ -129,7 +129,7 @@ Tenho interesse em projetos que conectem **análise de dados, automação e dese
 
 <div align="center">
 
-**João Otávio Mota Roriz · RorizTechSolutions**  
+**João Otávio Mota Roriz · RorizTechSolutions**<br>
 Entender a rotina. Conectar os dados. Construir soluções.
 
 </div>
